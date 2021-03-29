@@ -1,0 +1,32 @@
+Insert client: Ion Popescu, Bucuresti
+Insert client: Luca George, Bucuresti
+Report client
+Insert client: Sandu Vasile, Cluj-Napoca
+Report client
+Delete client: Ion Popescu, Bucuresti
+Report client
+Insert product: apple, 20, 1
+Insert product: peach, 50, 2
+Insert product: apple, 20, 1
+Report product
+Delete Product: peach
+Insert product: orange, 40, 1.5
+Insert product: lemon, 70, 2
+Report product
+Order: Luca George, apple, 5
+Order: Luca George, lemon, 5
+Order: Sandu Vasile, apple, 100
+Report client
+Report order
+Report product
+Insert client: Maria Veliche, Ploiesti
+Insert client: Daniela Velcherean, Oradea
+Report client
+Insert product: watermelon, 30, 10
+Insert product: mango, 45, 3.5
+Report product
+Order: Maria Veliche, mango, 20
+Order: Sandu Vasile, watermelon, 3
+Order: Luca George, watermelon, 28
+Report order
+Report product
